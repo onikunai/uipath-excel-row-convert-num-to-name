@@ -1,5 +1,5 @@
 {
-  "name": "列変換_数値から文字",
+  "name": "Excelの列名を数値から文字に変換",
   "description": "空のプロジェクト",
   "main": "Main.xaml",
   "dependencies": {
